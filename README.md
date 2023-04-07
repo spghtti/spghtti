@@ -13,6 +13,4 @@ I’m always eager to learn new technologies and tools to improve my skills and 
 
 I'm currently open to new opportunities.
 
-[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=spghtti&hide=stars&theme=tokyonight&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=spghtti&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=spghtti&hide=stars&theme=tokyonight&show_icons=true)](https://github.com/anuraghazra/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=spghtti&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
