@@ -1,4 +1,4 @@
-# Hello there 👋
+# Hello!
 
 My name is Matt and I'm a full-stack web developer based in Boston. I’m passionate about creating user-friendly websites and applications that are both visually appealing and functional.
 
