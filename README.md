@@ -1,4 +1,4 @@
-# Oh, hello! <img src="https://github.com/spghtti/spghtti/blob/main/wave.gif?raw=true" style="height: 2.5rem" />
+# Oh, hello! <img src="https://github.com/spghtti/spghtti/blob/main/wave.gif?raw=true" style="height: 35px; width: 35px" />
 
 ## About me
 <tr>
